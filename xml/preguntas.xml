@@ -105,13 +105,18 @@
     </question>
     <question id="q010">
         <type>checkbox</type>
-        <title>
-            10. Valore este examen (sabiendo que una mala valoración podría bajar su nota...)
+     <title>
+            10. ¿Cuales de los siguientes juegos utiliza el sistema D20?
         </title>
-        <option>a) Es genial</option>
-        <option>b) Increíble</option>
-        <option>c) Malísimo (PISTA: Esta no la marques...)</option>
+        <option>Dragones y mazmorras</option>
+        <option>Pathfinder</option>
+        <option>Aquelarre</option>
+	<option>Warhammer</option>
+	<option>Conan</option>
+	<option>Leyenda de los 5 anillos</option>
         <answer>0</answer>
         <answer>1</answer>
+	<answer>4</answer>
+	<answer>5</answer>
     </question>
 </questions>
